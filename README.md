@@ -17,7 +17,6 @@
 ## 🧰 Tecnologias Utilizadas
 
 - **WordPress**
-- 
 ---
 
 ## 🖼️ Telas do App
